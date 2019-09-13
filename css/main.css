@@ -1,0 +1,41 @@
+html {
+  box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+  }
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+
+  i {
+    font-family: "Noto Sans Japanese", sans-serif;
+  }
+
+  hr {
+    color: #000;
+  }
+
+  a {
+    color: #005e76;
+    text-decoration: underline;
+  }
+
+  a :hover {
+    color: #860927;
+    text-decoration: underline;
+  }
+
+  .btn-ghost {
+    background-color: none;
+    color: #d89fb0
+  }
+
+  .btn-ghost :hover {
+    background-color: #d89fb0;
+    border: #860927;
+  }
+
+  footer {
+    color: #e2e2e2;
+  }
+}
