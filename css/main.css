@@ -21,18 +21,18 @@ html {
   }
 
   a :hover {
-    color: #860927;
+    color: #0084a6;
     text-decoration: underline;
   }
 
   .btn-ghost {
-    background-color: none;
+    background-color: #0084a6;
     color: #d89fb0
   }
 
   .btn-ghost :hover {
-    background-color: #d89fb0;
-    border: #860927;
+    background-color: #0084a6;
+    border: #8bc9d9;
   }
 
   footer {
