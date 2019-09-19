@@ -20,23 +20,18 @@ i {
   border-width: 2px;
 }
 
-.nav a {
+a {
   text-decoration: none;
   color: #005e76;
   border-bottom: 2px solid #8bc9d9;
 }
 
-.nav a:hover {
+a:hover {
   color: #000;
 }
 
 footer {
   border-top: 2px solid #e2e2e2;
-}
-
-.intro {
-  border-top: 2px solid #e2e2e2;
-  border-bottom: 2px solid #e2e2e2;
 }
 
 @media only screen and (min-width: 60em) {
