@@ -1,6 +1,10 @@
-
 html {
   font-family: "Noto Sans", sans-serif;
+}
+
+.intro {
+  border-top: 2px solid #e2e2e2;
+  border-bottom: 2px solid #e2e2e2;
 }
 
 i {
@@ -36,12 +40,12 @@ footer {
 
 @media only screen and (min-width: 60em) {
 
-  .right {
-    text-align: right;
+  .logo-left {
+    text-align: left;
   }
 
-  .left {
-    text-align: left;
+  .nav-right {
+    text-align: right;
   }
 
 }
